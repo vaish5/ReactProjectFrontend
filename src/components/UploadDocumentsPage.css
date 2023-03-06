@@ -1,0 +1,38 @@
+/* Style for the heading */
+h2 {
+    margin: 20px 0;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  /* Style for the label */
+  label {
+    display: block;
+    margin: 20px 0;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  /* Style for the input[type="file"] */
+  input[type="file"] {
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the button */
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Style for the disabled button */
+  button[disabled] {
+    background-color: rgb(90, 151, 251);
+    cursor: default;
+  }
+  
